@@ -1,0 +1,6 @@
+[submodule "mod1head"]
+	path = mod1path
+	url = https://github.com/katai5plate/RPGMV-Plugin
+[submodule "mod2head"]
+	path = x/mod2path
+	url = https://github.com/katai5plate/RPGMZ-Plugins
