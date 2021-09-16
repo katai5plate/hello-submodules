@@ -1,0 +1,6 @@
+[submodule "submodules/mv"]
+	path = submodules/mv
+	url = https://github.com/katai5plate/RPGMV-Plugin
+[submodule "submodules/mz"]
+	path = submodules/mz
+	url = https://github.com/katai5plate/RPGMZ-Plugins
